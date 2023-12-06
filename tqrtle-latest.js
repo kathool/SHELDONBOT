@@ -2,7 +2,7 @@
 // @name         tqrtle.exe - katfork
 // @version      2.2
 // @namespace    discord.gg/hk9xCswV4j (Edgesploit discord server)
-// @description  Free auto answer, library made by Edgesploit, menu made by Defy implimented by tqrtle & kathool (EDGENUITY CHEATS 4 ALL! FREEWARE!)
+// @description  Free auto answer, library made by Edgesploit, edgentweaks menu made by De-y & grayden implimented by tqrtle & kathool (EDGENUITY CHEATS 4 ALL! FREEWARE!)
 // @author       tqrtle & defy
 // @match        *://*.core.learn.edgenuity.com/*
 // @match        https://student.edgenuity.com/*
