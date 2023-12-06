@@ -1,4 +1,4 @@
-# TQRTLE.EXE
+# TQRTLEBOT
 Free auto answer and tweak menu for Edgenuity, developed by Tqrtle and Defy (De-y)
 
 # Requirements
