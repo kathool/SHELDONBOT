@@ -1,3 +1,6 @@
 # TQRTLE.EXE
-free auto answer pair with edgen tweaks
-You need Tampermonkey to run this script!
+Free auto answer, developed by Tqrtle, ChatGPT, and Defy (De-y)
+
+# Requirements
+- Tampermonkey Extention
+- Web Browser compatible with Tampermonkey
