@@ -1,3 +1,3 @@
-# Edgybot-2.0-updated-source-code
+# TQRTLE.EXE
 free auto answer pair with edgen tweaks
 You need Tampermonkey to run this script!
