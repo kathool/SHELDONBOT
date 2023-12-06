@@ -11,7 +11,7 @@ This is purely to spread free cheats for anybody struggling with Edgenuity, we d
 # Legality
 The IDs are purely sourced from TQRTLE, this script is a fork and ONLY includes the menu (developed by Defy), auto-submit (developed by Tqrtle), and auto-answer (answer IDs sourced from Tqrtle) none of these features involve me and the developers have these scripts public on their own pages as well. Please be aware that if I'm legally required to, this github page may possibly be taken down in the uncertain future.
 
-# Disclaimer!
+# Disclaimer! (More legality stuff :c)
 TQRTLE.EXE is exclusively intended for educational and demonstration purposes. As a user, you assume full responsibility for your actions and any potential consequences resulting from the use of TQRTLE.EXE. The developers or distributors of TQRTLE.EXE explicitly disclaim accountability for any damages, losses, or legal issues that may arise from its utilization.
 
 It is imperative to use TQRTLE.EXE judiciously, strictly adhering to legal and responsible practices in accordance with all applicable laws and regulations. Any misuse of this tool, especially in violation of academic integrity, may result in severe consequences, including academic penalties, legal repercussions, and damage to one's reputation.
