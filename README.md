@@ -1,5 +1,5 @@
 # TQRTLEBOT
-Free auto answer and tweak menu for Edgenuity, developed by Tqrtle and Defy (De-y)
+Free auto answer and tweak menu for Edgenuity, developed by Tqrtle, Defy (De-y), and Grayden
 
 # Requirements
 - Tampermonkey Extention
