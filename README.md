@@ -14,8 +14,8 @@ Contributors:
 - Grayden Wursten
 
 # Requirements
-- Tampermonkey Extention
-- Web Browser compatible with Tampermonkey
+- [Tampermonkey Extention](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+- Web Browser compatible with Tampermonkey (Firefox, Chrome, or any Chrome-based browsers like Brave or Opera GX)
 
 # FREEWARE! EDGENUITY CHEATS FOR ALL!
 This is purely to spread free cheats for anybody struggling with Edgenuity, we don't hate paid cheats but lets be real... most people who sell them are scumbags or script kiddies :)
