@@ -3,7 +3,7 @@ Free auto answer and tweak menu for Edgenuity, developed by Tqrtle, Defy (De-y),
 
 # Discord
 Need help? [Join the discord server here!](https://discord.gg/9WCJEcFDXt)
-We have alternate download sources, installation videos to walk you through on the server, and official support members of the community to help you if you're not sure how to use the script.
+We have alternate download sources, installation videos to walk you through, and official support members of the community to help you if you're not sure how to use the script.
 
 # Developers
 Current devs:
