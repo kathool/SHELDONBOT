@@ -13,7 +13,7 @@ We have alternate download sources, installation videos to walk you through, and
 # Developers
 Current devs:
 - Tqrtle
-- K1ngwing
+- T3st
 
 Contributors:
 - Defy (De-y)
