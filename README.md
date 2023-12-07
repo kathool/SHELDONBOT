@@ -1,5 +1,5 @@
 # TQRTLEBOT
-Free auto answer and tweak menu for Edgenuity, developed by Tqrtle, Defy (De-y), and Grayden
+Free auto answer and tweak menu for Edgenuity, developed by Tqrtle, Defy (De-y), and Gradyn Wursten
 
 # Discord
 Need help? [Join the discord server here!](https://discord.gg/9WCJEcFDXt)
