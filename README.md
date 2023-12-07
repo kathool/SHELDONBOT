@@ -1,4 +1,4 @@
-# TQRTLEBOT
+# TQRTLEBOT 🤖
 Free auto answer and tweak menu for Edgenuity, developed by Tqrtle, Defy (De-y), and Gradyn Wursten
 
 # Discord
