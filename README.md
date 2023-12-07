@@ -17,7 +17,7 @@ Current devs:
 
 Contributors:
 - Defy (De-y)
-- Grayden Wursten
+- Gradyn Wursten (EdgenTweaks)
 
 # Requirements
 - [Tampermonkey Extention](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) (If your browser doesn't use the Chrome Web Store then check your browsers web store, it's most likely that Tampermonkey is on it)
