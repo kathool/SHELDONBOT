@@ -20,7 +20,7 @@ Contributors:
 # FREEWARE! EDGENUITY CHEATS FOR ALL!
 This is purely to spread free cheats for anybody struggling with Edgenuity, we don't hate paid cheats but lets be real... most people who sell them are scumbags or script kiddies :)
 
-# Legality
+# Legality (Kathool's Disclaimer)
 The IDs are purely sourced from [TQRTLE'S GITHUB](https://raw.githubusercontent.com/turtlecod/ids/main/4) and even then Tqrtle said "The Ids were not obtained by me they were distributed from another public source", they're just hosted by him. This script is a fork and ONLY includes the menu (developed by Defy), auto-submit (developed by Tqrtle), and auto-answer (answer IDs sourced from [TQRTLE'S GITHUB](https://raw.githubusercontent.com/turtlecod/ids/main/4)) none of these features involve me and the developers have these scripts public on their own pages as well. Please be aware that if I'm legally required to, this github page may possibly be taken down in the uncertain future.
 
 # Disclaimer! (More legality stuff :c)
