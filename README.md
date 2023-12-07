@@ -2,7 +2,7 @@
 Free auto answer and tweak menu for Edgenuity, developed by Tqrtle, Defy (De-y), and Grayden
 
 # Discord
-Need help? [Join the discor server here!](https://discord.gg/9WCJEcFDXt)
+Need help? [Join the discord server here!](https://discord.gg/9WCJEcFDXt)
 
 # Requirements
 - Tampermonkey Extention
