@@ -6,12 +6,12 @@ Need help? [Join the discord server here!](https://discord.gg/9WCJEcFDXt)
 
 # Developers
 Current devs:
-Tqrtle
-K1ngwing
+- Tqrtle
+- K1ngwing
 
 Contributors:
-Defy (De-y)
-Grayden Wursten
+- Defy (De-y)
+- Grayden Wursten
 
 # Requirements
 - Tampermonkey Extention
