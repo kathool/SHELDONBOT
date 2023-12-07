@@ -1,8 +1,10 @@
 # TQRTLEBOT 🤖
 Free auto answer and tweak menu for Edgenuity, developed by Tqrtle, Defy (De-y), and Gradyn Wursten
 
-# How to download
+# How to download and install
 Go to releases on the right hand side, click on whichever desired version, and click on the file that ends with ".js" to download the file. Then go into tampermonkey, click the plus icon or the "Create new script" button and drag the tqrtle-WHATEVERVERSIONYOUHAVE.js file into tampermonkey, and hit the button that says "install" (if it says "reinstall" you might already have the script) then you're finished!
+
+*This is a very basic walkthrough on how to install tqrtlebot, if you're not exactly sure how to install tqrtlebot after using this walkthrough then we highly recommend you join our discord down below.*
 
 # Discord
 Need help? [Join the discord server here!](https://discord.gg/9WCJEcFDXt)
