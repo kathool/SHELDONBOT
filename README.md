@@ -4,6 +4,15 @@ Free auto answer and tweak menu for Edgenuity, developed by Tqrtle, Defy (De-y),
 # Discord
 Need help? [Join the discord server here!](https://discord.gg/9WCJEcFDXt)
 
+# Developers
+Current devs:
+Tqrtle
+K1ngwing
+
+Contributors:
+Defy (De-y)
+Grayden Wursten
+
 # Requirements
 - Tampermonkey Extention
 - Web Browser compatible with Tampermonkey
