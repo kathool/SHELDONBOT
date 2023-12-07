@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         tqrtle.exe - katfork
 // @version      2.2
-// @namespace    discord.gg/hk9xCswV4j (Edgesploit discord server)
+// @namespace    https://discord.gg/nA4SDMEAZ4
 // @description  Free auto answer, library made by Edgesploit, edgentweaks menu made by De-y & grayden implimented by tqrtle & kathool (EDGENUITY CHEATS 4 ALL! FREEWARE!)
-// @author       tqrtle & defy
+// @author       tqrtle & de-y & grayden
 // @match        *://*.core.learn.edgenuity.com/*
 // @match        https://student.edgenuity.com/*
 // @updateURL  https://raw.githubusercontent.com/De-y/edgentweaks/main/edgentweaks.js
