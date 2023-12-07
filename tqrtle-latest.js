@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         tqrtle.exe - katfork
+// @name         tqrtlebot - katfork
 // @version      2.2
 // @namespace    https://discord.gg/nA4SDMEAZ4
 // @description  Free auto answer, library made by Edgesploit, edgentweaks menu made by De-y & grayden implimented by tqrtle & kathool (EDGENUITY CHEATS 4 ALL! FREEWARE!)
