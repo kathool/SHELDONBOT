@@ -24,8 +24,8 @@ Contributors:
 - [Tampermonkey Extention](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) (If your browser doesn't use the Chrome Web Store then check your browsers web store, it's most likely that Tampermonkey is on it)
 - Web Browser compatible with Tampermonkey (Firefox, MS Edge, Chrome, or any Chrome-based browsers like Brave or Opera GX)
 
-# FREEWARE! EDGENUITY CHEATS FOR ALL!
-This is purely to spread free cheats for anybody struggling with Edgenuity, we don't hate paid cheats but lets be real... most people who sell them are scumbags or script kiddies :)
+# How is this free?
+This is purely to spread free cheats for anybody struggling with Edgenuity, we are not like the other people selling cheats. We want everyone to be able to access not only free cheats that are well maintained and updated frequently but we also want people to be able to access paid cheats for a fair price, all the money for SheldonBot Pro goes back into paying for developers to maintain the free version.
 
 # Legality (Kathool's Disclaimer)
 The IDs are purely sourced from [TQRTLE'S GITHUB](https://raw.githubusercontent.com/turtlecod/ids/main/4) and even then Tqrtle said "The Ids were not obtained by me they were distributed from another public source", they're just hosted by him. This script is a fork and ONLY includes the menu (developed by Defy), auto-submit (developed by Tqrtle), and auto-answer (answer IDs sourced from [TQRTLE'S GITHUB](https://raw.githubusercontent.com/turtlecod/ids/main/4)) none of these features involve me and the developers have these scripts public on their own pages as well. Please be aware that if I'm legally required to, this github page may possibly be taken down in the uncertain future.
