@@ -13,10 +13,11 @@ We have alternate download sources, installation videos to walk you through, and
 # Developers
 Current devs:
 - T3st
+- Sampset
 
 Contributors:
 - Tqrtle (Left the project :c)
-- Defy (De-y)
+- De-y (EdgenTweaks)
 - Gradyn Wursten (EdgenTweaks)
 
 # Requirements
