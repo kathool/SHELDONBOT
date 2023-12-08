@@ -20,6 +20,8 @@ Contributors:
 - Tqrtle (Left the project :c)
 - De-y (EdgenTweaks)
 - Gradyn Wursten (EdgenTweaks)
+- Some Indian Dude
+This was script was originally created by an unknown Indian dude's fiverr, Tqrtle then added Auto-Submit, Auto-Start, and included EdgenTweaks so it was more user-friendly for people new to scripting.
 
 # Requirements
 - [Tampermonkey Extention](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) (If your browser doesn't use the Chrome Web Store then check your browsers web store, it's most likely that Tampermonkey is on it)
