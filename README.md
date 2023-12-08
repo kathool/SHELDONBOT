@@ -22,7 +22,7 @@ Contributors:
 - Gradyn Wursten (EdgenTweaks)
 - Some Indian Dude (Fiverr)
 
-This script was originally created by an unknown Indian dude on Fiverr. It was being sold by various people as if it were their own work. Tqrtle purchased it for $5 and then added Auto-Submit, Auto-Start, and included EdgenTweaks to make it more user-friendly for those new to using scripts.
+*This script was originally created by an unknown Indian dude on Fiverr. It was being sold by various people as if it were their own work. Tqrtle purchased it for $5 and then added Auto-Submit, Auto-Start, and included EdgenTweaks to make it more user-friendly for those new to using scripts.*
 
 # Requirements
 - [Tampermonkey Extention](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) (If your browser doesn't use the Chrome Web Store then check your browsers web store, it's most likely that Tampermonkey is on it)
