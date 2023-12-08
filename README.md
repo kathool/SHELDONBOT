@@ -5,7 +5,7 @@ Free auto answer and tweak menu for Edgenuity, developed by Tqrtle, Defy (De-y),
 Go to releases on the right hand side, click on whichever desired version, and click on the file that ends with ".js" to download the file. Then go into tampermonkey, click the plus icon or the "Create new script" button and drag the sheldonbot-WHATEVERVERSIONYOUHAVE.js file into tampermonkey, and hit the button that says "install" (if it says "reinstall" you might already have the script) then you're finished!
 
 # Discord
-Feel free to [join the discord server here](https://discord.gg/9WCJEcFDXt), but keep in mind it's purely for updates. **(DO NOT DM ME OR ANY DEVS FOR HELP)**
+Feel free to [join the discord server here](https://discord.gg/9WCJEcFDXt), but keep in mind it's purely for announcements. **(DO NOT DM ME OR ANY DEVS FOR HELP)**
 
 # Why were all the channels on the discord server deleted?
 Because running a discord for a edgenuity script is extremely hard, there's lots of drama and toxicity, so I decided to only leave the discord up for purely announcements/updates.
