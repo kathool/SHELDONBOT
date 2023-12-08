@@ -3,7 +3,7 @@
 // @version      PreRelease-0.1
 // @namespace    https://discord.gg/um6bnEsNz2 - Our Discord Server
 // @description  Free auto answer, IDs sourced from "smiggletonfiggleton"
-// @author       SheldonBot Team & EdgenTweaks Devs (De-y and Grayden Wursten)
+// @author       Tqrtle, Sampset, K1ngwing, Kathool, & EdgenTweaks Devs (De-y and Grayden Wursten)
 // @match        *://*.core.learn.edgenuity.com/*
 // @match        https://student.edgenuity.com/*
 // @updateURL    https://raw.githubusercontent.com/De-y/edgentweaks/main/edgentweaks.js
