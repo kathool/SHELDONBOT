@@ -16,6 +16,7 @@ Current devs:
 - T3st
 - Sampset
 - Some Indian Dude
+
 This was script was originally created by an unknown Indian dude's fiverr, Tqrtle then added Auto-Submit, Auto-Start, and included EdgenTweaks so it was more user-friendly for people new to scripting.
 
 Contributors:
