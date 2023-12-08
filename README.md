@@ -4,11 +4,12 @@ Free auto answer and tweak menu for Edgenuity, developed by Tqrtle, Defy (De-y),
 # How to download and install
 Go to releases on the right hand side, click on whichever desired version, and click on the file that ends with ".js" to download the file. Then go into tampermonkey, click the plus icon or the "Create new script" button and drag the sheldonbot-WHATEVERVERSIONYOUHAVE.js file into tampermonkey, and hit the button that says "install" (if it says "reinstall" you might already have the script) then you're finished!
 
-*This is a very basic walkthrough on how to install sheldonbot, if you're not exactly sure how to install sheldonbot after using this walkthrough then we highly recommend you join our discord down below.*
-
 # Discord
-Need help? [Join the discord server here!](https://discord.gg/9WCJEcFDXt)
-We have alternate download sources, installation videos to walk you through, and official support members of the community to help you if you're not sure how to use the script.
+Feel free to [join the discord server here](https://discord.gg/9WCJEcFDXt), but keep in mind it's purely for updates. **(DO NOT DM ME OR ANY DEVS FOR HELP)**
+
+# Why were all the channels on the discord server deleted?
+Because running a discord for a edgenuity script is extremely hard, there's lots of drama and toxicity, so I decided to only leave the discord up for purely announcements/updates.
+Please don't DM me or any of the devs for help we used to be open to help anyone but it's just way too much to deal with, if you need help DM the people with support role.
 
 # Developers
 Current devs:
@@ -25,7 +26,7 @@ Contributors:
 - Web Browser compatible with Tampermonkey (Firefox, MS Edge, Chrome, or any Chrome-based browsers like Brave or Opera GX)
 
 # How is this free?
-This is purely to spread free cheats for anybody struggling with Edgenuity, we are not like the other people selling cheats. We want everyone to be able to access not only free cheats that are well maintained and updated frequently but we also want people to be able to access paid cheats for a fair price, all the money for SheldonBot Pro goes back into paying for developers to maintain the free version.
+This is purely to spread free cheats for anybody struggling with Edgenuity, this is open source so we take any support with development we can get. If you know how to code tampermonkey extentions and wanna contribute to maintain SheldonBot please contact me!
 
 # Legality (Kathool's Disclaimer)
 The IDs are purely sourced from [TQRTLE'S GITHUB](https://raw.githubusercontent.com/turtlecod/ids/main/4) and even then Tqrtle said "The Ids were not obtained by me they were distributed from another public source", they're just hosted by him. This script is a fork and ONLY includes the menu (developed by Defy), auto-submit (developed by Tqrtle), and auto-answer (answer IDs sourced from [TQRTLE'S GITHUB](https://raw.githubusercontent.com/turtlecod/ids/main/4)) none of these features involve me and the developers have these scripts public on their own pages as well. Please be aware that if I'm legally required to, this github page may possibly be taken down in the uncertain future.
