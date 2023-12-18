@@ -3,7 +3,7 @@ Free auto answer and tweak menu for Edgenuity, developed by Tqrtle, Defy (De-y),
 
 Update 12/13/23: IDs got removed,working on a fix - T3st
 
-Update 12/18/23: HAving trouble finding host,looking for options - T3st
+Update 12/18/23: Having trouble finding a host,looking for options - T3st
 
 # How to download and install
 Go to releases on the right hand side, click on whichever desired version, and click on the file that ends with ".js" to download the file. Then go into tampermonkey, click the plus icon or the "Create new script" button and drag the sheldonbot-WHATEVERVERSIONYOUHAVE.js file into tampermonkey, and hit the button that says "install" (if it says "reinstall" you might already have the script) then you're finished!
